@@ -1,4 +1,9 @@
 public Class Bhupen{
+int a= 10;
+int k;
+public static void main (String arg[]){
 
+system.out.println(a);
+system.out.println(k);
 }
 }
