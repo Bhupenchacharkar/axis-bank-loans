@@ -10,7 +10,9 @@ c=20;
 int j= 20;
 system.out.println(i);
 system.out.println(j);
+
 system.out.println(p);
+int f= 322;
 
 }
 
