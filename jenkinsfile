@@ -12,6 +12,8 @@ system.out.println(i);
 system.out.println(j);
 
 system.out.println(p);
+
+tteacher = nju
 int f= 322;
 
 }
