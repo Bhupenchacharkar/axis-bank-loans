@@ -3,6 +3,7 @@ public Class Bhupen{
 bhupen chacharkar;
 int a;
 char c;
+int a= 123;
 public static void main(String args[]){
 int i = 10;
 c=20;
