@@ -1,9 +1,9 @@
 public Class Bhupen{
 123345678;
-bhupen chacharkar;
 int a;
 char c;
 public static void main(String args[]){
+char a='adf';
 int i = 10;
 c=20;
 int j= 20;
