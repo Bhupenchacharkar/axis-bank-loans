@@ -1,0 +1,12 @@
+public Class Bhupen{
+
+int a;
+char c;
+public static void main(String args[]){
+int i = 10;
+c=20;
+int j= 20;
+system.out.println(i);
+}
+
+}
