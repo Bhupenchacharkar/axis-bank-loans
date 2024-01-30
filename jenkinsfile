@@ -2,6 +2,7 @@ public Class Bhupen{
 123345678;
 int a;
 char c;
+int a= 123;
 public static void main(String args[]){
 char a='adf';
 int i = 10;
