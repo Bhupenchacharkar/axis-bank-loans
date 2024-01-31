@@ -3,7 +3,11 @@ int a= 10;
 int k;
 public static void main (String arg[]){
 12344;
+//tasl 102
+private void m2(){
 
+logic 
+}
 system.out.println(a);
 system.out.println(k);
 }
