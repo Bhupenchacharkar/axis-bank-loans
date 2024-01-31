@@ -1,1 +1,1 @@
-maintainer= ashok
+maintainer= "ashok" <ashok@gmail.com>
